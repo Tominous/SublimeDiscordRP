@@ -6,7 +6,7 @@
     "connect_on_startup": true,
 
     // Whether not to have verbose logs. Defaults to false.
-    "debug": false,
+    "debug": true,
 
     // The format the presence details will be in
     //   {file} - The file name (Ex. index.js)
